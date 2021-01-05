@@ -6,6 +6,6 @@
 <li> Aprendizado de banco de dados com Nodejs e mongoDb. </li>
 <li> Uso de mapas.</li>
 <li> Estrutura de projeto. </li>
-<li> Consumo de APi <li/>
+<li> Consumo de APi </li>
 <li> Testes da aplicação com conceitos de TDD com a biblioteca JEST </li>
 </ul>
